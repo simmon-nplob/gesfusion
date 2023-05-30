@@ -1,0 +1,12 @@
+#!/bin/bash
+                                                                                                                                  
+# Fedora auto installation for rpmfusion
+# Last updated Dec.11, 2022
+# written by simmon
+# www.nplob.com
+
+version=`uname -r|cut -d 'c' -f 2|cut -d '.' -f 1`
+echo "rpmfusion free release for el$version"
+rpm -Uvh https://mirrors.rpmfusion.org/free/el/rpmfusion-free-release-$version.noarch.rpm
+echo "rpmfusion non-free release for el$version"
+rpm -Uvh https://mirrors.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release-$version.noarch.rpm

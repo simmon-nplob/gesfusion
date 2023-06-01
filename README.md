@@ -9,14 +9,14 @@ Have a fun! so, easy!
 
 - Fedora - fedorafusion
 
-# git clone https://github.com/simmon-nplob/gesfusion.git
-# cd gesfusion
-# chmod u+x fedorafusion
-# ./fedorafusion
+     git clone https://github.com/simmon-nplob/gesfusion.git
+     cd gesfusion
+     chmod u+x fedorafusion
+     ./fedorafusion
 
 - Rocky/Rehel - gelfusion
 
-# git clone https://github.com/simmon-nplob/gesfusion.git
-# cd gesfusion
-# chmod u+x gelfusion
-# ./gelfusion
+     git clone https://github.com/simmon-nplob/gesfusion.git
+     cd gesfusion
+     chmod u+x gelfusion
+     ./gelfusion

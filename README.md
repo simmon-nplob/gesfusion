@@ -1,7 +1,6 @@
 written by simmon
 simmon@nplob.com
 
-
 # gesfusion
 Config files for my GitHub profile.
 
@@ -10,14 +9,14 @@ This is separate to apply to Fedora Linux / REHEL-Rocky Linux
 
 - Fedora - fedorafusion
 
-# git clone https://github.com/simmon-nplob/gesfusion.git
+$ git clone https://github.com/simmon-nplob/gesfusion.git
 # cd gesfusion
 # chmod u+x fedorafusion
 # ./fedorafusion
 
 - Rocky/Rehel - gelfusion
 
-# git clone https://github.com/simmon-nplob/gesfusion.git
+$ git clone https://github.com/simmon-nplob/gesfusion.git
 # cd gesfusion
 # chmod u+x gelfusion
 # ./gelfusion

@@ -13,6 +13,8 @@ Fedora - fedorafusion
 
 Rocky/Rehel - gelfusion
 
+     # dnf install epel-release
+     # dnf repolsit
      # git clone https://github.com/simmon-nplob/gesfusion.git
      # cd gesfusion
      # chmod u+x gelfusion

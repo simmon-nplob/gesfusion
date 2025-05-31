@@ -1,7 +1,8 @@
 #!/bin/bash
-                                                                                                                                  
+
+# It is applied and used starting from the distribution version after F41.
 # Fedora auto installation for rpmfusion
-# Last updated Dec.11, 2022
+# Last updated May.31, 2025
 # written by simmon
 # www.nplob.com
 

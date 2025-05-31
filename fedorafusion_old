@@ -1,7 +1,8 @@
 #!/bin/bash
                                                                                                                                   
-# Fedora auto installation for rpmfusion - F42 Release
-# Last updated Dec.11, 2022
+# It is applied and used starting from the distribution version prior to F41.
+# Fedora auto installation for rpmfusion
+# Last updated May.31, 2025
 # written by simmon
 # www.nplob.com
 

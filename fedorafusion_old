@@ -1,6 +1,6 @@
 #!/bin/bash
                                                                                                                                   
-# It is applied and used starting from the distribution version prior to F41.
+# It is applied and used starting from the distribution version prior to F41. (<F41 이하에 적용)
 # Fedora auto installation for rpmfusion
 # Last updated May.31, 2025
 # written by simmon

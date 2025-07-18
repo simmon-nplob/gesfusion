@@ -11,7 +11,7 @@ Fedora - fedorafusion
      # chmod u+x fedorafusion
      # ./fedorafusion
 
-Rocky/Rehel - gelfusion
+Rocky/Rehel - gelfusion for rhel 9 & 10
 
      # dnf install epel-release
      # dnf repolsit
